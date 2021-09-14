@@ -8,6 +8,6 @@ Steps to create an image from an existing instance-
 
 1. Check the instance create and under action create the image.
 
-2. Checkout the image created on the left pane of EC2 instance.
+2. Checkout the image created on the left side pane of EC2 instance dashboard.
 
 ```
